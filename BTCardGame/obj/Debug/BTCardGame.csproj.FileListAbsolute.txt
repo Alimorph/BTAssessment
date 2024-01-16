@@ -1,0 +1,10 @@
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\bin\Debug\BTCardGame.exe.config
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\bin\Debug\BTCardGame.exe
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\bin\Debug\BTCardGame.pdb
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.csproj.AssemblyReference.cache
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.Properties.Resources.resources
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.csproj.GenerateResource.cache
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.csproj.CoreCompileInputs.cache
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.exe
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.pdb
+C:\Users\ali.morgan\source\repos\BTCardGame\BTCardGame\obj\Debug\BTCardGame.Form.resources
